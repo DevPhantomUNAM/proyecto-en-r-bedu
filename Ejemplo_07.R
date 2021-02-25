@@ -9,3 +9,5 @@ summary(iris)
 
 datasets::ldeaths
 plot(ldeaths)
+
+iris
